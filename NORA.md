@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8" />
-
+<title>Page Title</title>
 </head>
- <style>
-body {
-background-image: url('Istanbul.jpg');
-background-repeat: no-repeat;
-background-size: 100% 100%;
-}
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
