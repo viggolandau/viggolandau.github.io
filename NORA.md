@@ -9,4 +9,4 @@ body {
 background-image: url('Istanbul.jpg');
 background-repeat: no-repeat;
 background-size: 100% 100%;
-}     
+}
